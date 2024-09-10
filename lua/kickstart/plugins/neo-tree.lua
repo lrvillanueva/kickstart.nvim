@@ -1,8 +1,12 @@
 -- Neo-tree is a Neovim plugin to browse the file system
 -- https://github.com/nvim-neo-tree/neo-tree.nvim
 
+-- vim.g.loaded_netrw = 1
+-- vim.g.loaded_netrwPlugin = 1
+
 return {
   'nvim-neo-tree/neo-tree.nvim',
+  event = 'VimEnter',
   version = '*',
   dependencies = {
     'nvim-lua/plenary.nvim',
@@ -13,8 +17,10 @@ return {
   keys = {
     { '\\', ':Neotree reveal<CR>', desc = 'NeoTree reveal', silent = true },
   },
+  lazy = 'false',
   opts = {
     filesystem = {
+      hijack_netrw_behavior = 'open_current',
       window = {
         mappings = {
           ['\\'] = 'close_window',
