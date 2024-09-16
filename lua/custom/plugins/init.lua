@@ -2,4 +2,8 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return { { 'rebelot/kanagawa.nvim', lazy = true, opts = { theme = 'wave' } } }
+
+return {
+  'github/copilot.vim',
+  'ThePrimeagen/vim-be-good',
+}
