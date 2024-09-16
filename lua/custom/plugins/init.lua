@@ -3,7 +3,10 @@
 --
 -- See the kickstart.nvim README for more information
 
+vim.keymap.set('n', '<leader>gs', vim.cmd.Git)
+
 return {
   'github/copilot.vim',
   'ThePrimeagen/vim-be-good',
+  'tpope/vim-fugitive',
 }
