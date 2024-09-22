@@ -617,7 +617,7 @@ require('lazy').setup({
         -- gopls = {},
         pyright = {},
         autopep8 = {},
-        -- rust_analyzer = {},
+        rust_analyzer = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
         --
         -- Some languages (like typescript) have entire language plugins that can be useful:
@@ -856,7 +856,7 @@ require('lazy').setup({
       -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
       --vim.cmd.colorscheme 'tokyonight-night'
       vim.cmd.colorscheme 'kanagawa-dragon'
-      -- vim.cmd.colorscheme 'catppuccin'
+      -- vim.cmd.colorscheme 'catppuccin-mocha'
       -- You can configure highlights by doing something like:
       vim.cmd.hi 'Comment gui=none'
     end,
