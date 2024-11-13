@@ -6,7 +6,13 @@
 vim.keymap.set('n', '<leader>gs', vim.cmd.Git)
 
 return {
-  'github/copilot.vim',
+  -- 'github/copilot.vim',
+  {
+    'supermaven-inc/supermaven-nvim',
+    config = function()
+      require('supermaven-nvim').setup {}
+    end,
+  },
   'ThePrimeagen/vim-be-good',
   'tpope/vim-fugitive',
 }
