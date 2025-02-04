@@ -19,6 +19,7 @@ return {
     'stevearc/oil.nvim',
     config = function()
       require('oil').setup {
+        default_file_explorer = true,
         win_options = {
           signcolumn = 'yes:2',
         },
