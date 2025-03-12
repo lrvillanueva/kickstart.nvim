@@ -3,15 +3,15 @@
 --
 -- See the kickstart.nvim README for more information
 
-vim.keymap.set('n', '<leader>gs', vim.cmd.Git)
+-- vim.keymap.set('n', '<leader>gs', vim.cmd.Git)
 return {
-  -- 'github/copilot.vim',
-  {
-    'supermaven-inc/supermaven-nvim',
-    config = function()
-      require('supermaven-nvim').setup {}
-    end,
-  },
+  'github/copilot.vim',
+  -- {
+  --   'supermaven-inc/supermaven-nvim',
+  --   config = function()
+  --     require('supermaven-nvim').setup {}
+  --   end,
+  -- },
   'ThePrimeagen/vim-be-good',
-  'tpope/vim-fugitive',
+  -- 'tpope/vim-fugitive',
 }
