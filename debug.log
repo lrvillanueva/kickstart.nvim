@@ -1,0 +1,470 @@
+2025-03-25 15:58:10 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:10 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:10 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:10 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:10 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:11 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:11 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:11 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:11 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:11 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:12 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:12 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:12 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:12 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:12 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:16 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:16 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:16 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:16 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:16 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }
+2025-03-25 15:58:18 { { file = "init.lua", text = "init.lua" } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  } }
+2025-03-25 15:58:18 { {
+    file = "init.lua",
+    text = "init.lua"
+  }, {
+    file = "lua/kickstart/plugins/harpoon.lua",
+    text = "lua/kickstart/plugins/harpoon.lua"
+  }, {
+    file = "lua/kickstart/plugins/gitsigns.lua",
+    text = "lua/kickstart/plugins/gitsigns.lua"
+  }, {
+    file = "lua/custom/plugins/init.lua",
+    text = "lua/custom/plugins/init.lua"
+  }, {
+    file = "lua/kickstart/plugins/snacks.lua",
+    text = "lua/kickstart/plugins/snacks.lua"
+  } }

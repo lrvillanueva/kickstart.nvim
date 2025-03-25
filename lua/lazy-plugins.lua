@@ -22,7 +22,7 @@ require('lazy').setup({
   --
   require 'kickstart.plugins.gitsigns',
   require 'kickstart.plugins.which-key',
-  require 'kickstart.plugins.telescope',
+  -- require 'kickstart.plugins.telescope',
   require 'kickstart.plugins.lspconfig',
   require 'kickstart.plugins.conform',
   require 'kickstart.plugins.cmp',
@@ -46,7 +46,7 @@ require('lazy').setup({
   --  Uncomment any of the lines below to enable them (you will need to restart nvim).
   --
   -- require 'kickstart.plugins.debug',
-  require 'kickstart.plugins.indent_line',
+  -- require 'kickstart.plugins.indent_line',
   -- require 'kickstart.plugins.lint',
   require 'kickstart.plugins.autopairs',
   -- require 'kickstart.plugins.neo-tree',

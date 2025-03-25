@@ -2,9 +2,13 @@
 return {
   'folke/snacks.nvim',
   ---@type snacks.Config
+  -- lazy = false,
   opts = {
     terminal = { enabled = true },
+    indent = {},
+    picker = {},
   },
+
   keys = {
     {
       '<c-/>',
@@ -13,5 +17,19 @@ return {
       end,
       desc = 'Toggle terminal',
     },
+    {
+      '<leader>sG',
+      function()
+        Snacks.picker.grep()
+      end,
+      desc = '[S]earch by [G]rep',
+    },
+    -- {
+    --   '<leader>sd',
+    --   function()
+    --     Snacks.picker.diagnostics()
+    --   end,
+    --   desc = '[S]earch [D]iagnostics',
+    -- },
   },
 }

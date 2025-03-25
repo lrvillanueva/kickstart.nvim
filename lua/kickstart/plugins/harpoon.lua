@@ -1,33 +1,44 @@
 return {
   'ThePrimeagen/harpoon',
   branch = 'harpoon2',
-  requires = { { 'nvim-lua/plenary.nvim', 'nvim-telescope/telescope.nvim' } },
+  -- requires = { { 'nvim-lua/plenary.nvim', 'nvim-telescope/telescope.nvim' } },
+  requires = { { 'folke/snacks.nvim' } },
   config = function()
     local harpoon = require 'harpoon'
+    local snacks = require 'snacks'
     harpoon:setup {}
 
-    -- basic telescope configuration
-    local conf = require('telescope.config').values
-    local function toggle_telescope(harpoon_files)
+    local function toggle_snacks()
       local file_paths = {}
-      for _, item in ipairs(harpoon_files.items) do
-        table.insert(file_paths, item.value)
+      for _, item in ipairs(harpoon:list().items) do
+        local path = item.value
+        table.insert(file_paths, { text = path, file = path })
       end
-
-      require('telescope.pickers')
-        .new({}, {
-          prompt_title = 'Harpoon',
-          finder = require('telescope.finders').new_table {
-            results = file_paths,
-          },
-          previewer = conf.file_previewer {},
-          sorter = conf.generic_sorter {},
-        })
-        :find()
+      return file_paths
     end
 
+    -- -- basic telescope configuration
+    -- local conf = require('telescope.config').values
+    -- local function toggle_telescope(harpoon_files)
+    --   local file_paths = {}
+    --   for _, item in ipairs(harpoon_files.items) do
+    --     table.insert(file_paths, item.value)
+    --   end
+    --
+    --   require('telescope.pickers')
+    --     .new({}, {
+    --       prompt_title = 'Harpoon',
+    --       finder = require('telescope.finders').new_table {
+    --         results = file_paths,
+    --       },
+    --       previewer = conf.file_previewer {},
+    --       sorter = conf.generic_sorter {},
+    --     })
+    --     :find()
+    -- end
+    --
     vim.keymap.set('n', '<C-e>', function()
-      toggle_telescope(harpoon:list())
+      Snacks.picker { finder = toggle_snacks }
     end, { desc = 'Open harpoon window' })
     vim.keymap.set('n', '<leader>a', function()
       harpoon:list():add()
@@ -35,7 +46,7 @@ return {
     vim.keymap.set('n', 'C-d', function()
       harpoon:list():remove()
     end)
-    vim.keymap.set('n', '<C-e>', function()
+    vim.keymap.set('n', '<leader>l', function()
       harpoon.ui:toggle_quick_menu(harpoon:list())
     end)
 
