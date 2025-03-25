@@ -18,18 +18,25 @@ return {
       desc = 'Toggle terminal',
     },
     {
-      '<leader>sG',
+      '<leader>sg',
       function()
         Snacks.picker.grep()
       end,
       desc = '[S]earch by [G]rep',
     },
-    -- {
-    --   '<leader>sd',
-    --   function()
-    --     Snacks.picker.diagnostics()
-    --   end,
-    --   desc = '[S]earch [D]iagnostics',
-    -- },
+    {
+      '<leader><space>',
+      function()
+        Snacks.picker.smart()
+      end,
+      desc = 'Smart Find Files',
+    },
+    {
+      '<leader>sd',
+      function()
+        Snacks.picker.diagnostics()
+      end,
+      desc = '[S]earch [D]iagnostics',
+    },
   },
 }

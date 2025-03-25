@@ -2,7 +2,7 @@ return {
   'ThePrimeagen/harpoon',
   branch = 'harpoon2',
   -- requires = { { 'nvim-lua/plenary.nvim', 'nvim-telescope/telescope.nvim' } },
-  requires = { { 'folke/snacks.nvim' } },
+  requires = { { 'folke/snacks.nvim', 'nvim-lua/plenary.nvim' } },
   config = function()
     local harpoon = require 'harpoon'
     local snacks = require 'snacks'
