@@ -38,5 +38,19 @@ return {
       end,
       desc = '[S]earch [D]iagnostics',
     },
+    {
+      '<leader>sb',
+      function()
+        Snacks.picker.buffers()
+      end,
+      desc = '[S]earch [B]uffers',
+    },
+    {
+      '<leader>sh',
+      function()
+        Snacks.picker.help()
+      end,
+      desc = '[S]earch [H]elp Pages',
+    },
   },
 }
