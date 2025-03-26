@@ -8,6 +8,10 @@ vim.opt.number = true
 --  Experiment for yourself to see if you like it!
 vim.opt.relativenumber = true
 
+-- Enable diagnostics
+vim.diagnostic.config { virtual_text = true, virtual_lines = true }
+
+-- Enable syntax highlighting
 vim.api.nvim_set_hl(0, 'Normal', { bg = 'none' })
 vim.api.nvim_set_hl(0, 'NormalFloat', { bg = 'none' })
 
@@ -64,3 +68,7 @@ vim.opt.cursorline = false
 
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.opt.scrolloff = 10
+
+vim.lsp.enable { 'pyright', 'ts_ls', 'lua_ls', 'rust_analyzer', 'gopls' }
+
+-- vim.lsp.enable { 'autopep8', 'pyright', 'rust_analyzer', 'ts_ls', 'lua_ls', 'xmlformatter', 'stylua' }

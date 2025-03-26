@@ -23,7 +23,7 @@ require('lazy').setup({
   require 'kickstart.plugins.gitsigns',
   require 'kickstart.plugins.which-key',
   -- require 'kickstart.plugins.telescope',
-  require 'kickstart.plugins.lspconfig',
+  -- require 'kickstart.plugins.lspconfig',
   require 'kickstart.plugins.conform',
   require 'kickstart.plugins.blink',
   -- require 'kickstart.plugins.cmp',
@@ -34,6 +34,7 @@ require('lazy').setup({
   require 'kickstart.plugins.harpoon',
   require 'kickstart.plugins.oil',
   require 'kickstart.plugins.snacks',
+  require 'kickstart.plugins.mason',
   require 'kickstart.plugins.fugitive',
   require 'kickstart.plugins.supermaven',
 
